@@ -1,4 +1,4 @@
-<h3 align="center">I'm a software developer with a passion for building efficient and scalable applications. I enjoy learning new technologies and working on projects that solve real-world problems. When I’m not coding, I’m exploring new ideas or working on personal projects.</h3>
+<h3 align="left">I'm a software developer with a passion for building efficient and scalable applications. I enjoy learning new technologies and working on projects that solve real-world problems. When I’m not coding, I’m exploring new ideas or working on personal projects.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
